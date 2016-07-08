@@ -1,0 +1,2 @@
+切换JDK
+update-alternatives --config java
